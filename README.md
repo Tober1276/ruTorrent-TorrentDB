@@ -2,9 +2,7 @@
 
 cd /var/www/rutorrent/plugins/theme/themes
 
-git clone git://github.com/phlooo/ruTorrent-MaterialDesign.git MaterialDesign
-
-chown -R www-data:www-data /var/www/rutorrent/plugins/theme/themes/MaterialDesign
+git clone git://github.com/Tober1276/ruTorrent-TorrentDB.git TorrentDB
 
 //Screenshot
 
