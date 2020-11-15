@@ -1,8 +1,8 @@
-# ruTorrent-MaterialDesign
+# ruTorrent-TorrentDB
 
-cd /var/www/rutorrent/plugins/theme/themes
+cd /srv/rutorrent/plugins/theme/themes
 
-git clone git://github.com/Tober1276/ruTorrent-TorrentDB.git TorrentDB
+sudo git clone git://github.com/Tober1276/ruTorrent-TorrentDB.git TorrentDB
 
 //Screenshot
 
